@@ -1,0 +1,15 @@
+1. What is the cmd to check present working dir?
+a) ls
+b) cd
+c) pwd
+d) mkdir
+2. What is the cmd to print the contents of file?
+a) pwd
+b) wc -l
+c) cut
+d) ls
+3. What option should be used for long listing?
+a) -h
+b) -l
+c) -a
+d) -s
